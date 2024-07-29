@@ -1,0 +1,138 @@
+{
+  "slides": [
+    {
+      "items": [
+        {
+          "thumb": "../assets/images/menu-kream.webp",
+          "name": "크림 드로우",
+          "thumb2": "../assets/images/menu-sale.webp",
+          "name2": "정가 아래"
+        },
+        {
+          "thumb": "../assets/images/menu-man.webp",
+          "name": "남성 추천",
+          "thumb2": "../assets/images/menu-phone.webp",
+          "name2": "the phone"
+        },
+        {
+          "thumb": "../assets/images/menu-woman.webp",
+          "name": "여성 추천",
+          "thumb2": "../assets/images/menu-card.webp",
+          "name2": "KREAM 카드"
+        },
+        {
+          "thumb": "../assets/images/menu-pick.webp",
+          "name": "색다른 추천",
+          "thumb2": "../assets/images/menu-off.webp",
+          "name2": "아모멘토 시즌오프"
+        },
+        {
+          "thumb": "../assets/images/menu-report.webp",
+          "name": "2024 상반기 리포트",
+          "thumb2": "../assets/images/menu-coupon.webp",
+          "name2": "50만원 쿠폰"
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "thumb": "../assets/images/menu-watch.webp",
+          "name": "까르띠에 & 오메가",
+          "thumb2": "../assets/images/menu-season.webp",
+          "name2": "역시즌 & 시즌오프"
+        },
+        {
+          "thumb": "../assets/images/menu-order.webp",
+          "name": "구해요",
+          "thumb2": "../assets/images/menu-myphone.webp",
+          "name2": "내 폰 시세"
+        },
+        {
+          "thumb": "../assets/images/menu-event.webp",
+          "name": "7월 혜택",
+          "thumb2": "../assets/images/menu-top.gif",
+          "name2": "급상승 스타일"
+        }
+      ]
+    }
+  ],
+
+  "topBrand": [
+    {
+      "thumb": "../assets/images/top-brand.webp",
+      "thumbM": "../assets/images/top-brand-m.jpg",
+      "name": "나이키"
+    },
+    {
+      "thumb": "../assets/images/top-brand2.webp",
+      "thumbM": "../assets/images/top-brand2-m.webp",
+      "name": "아디다스"
+    },
+    {
+      "thumb": "../assets/images/top-brand3.webp",
+      "thumbM": "../assets/images/top-brand3-m.webp",
+      "name": "스투시"
+    },
+    {
+      "thumb": "../assets/images/top-brand4.webp",
+      "thumbM": "../assets/images/top-brand4-m.webp",
+      "name": "크롬하츠"
+    },
+    {
+      "thumb": "../assets/images/top-brand5.webp",
+      "thumbM": "../assets/images/top-brand5-m.webp",
+      "name": "아이앱<br>스튜디오"
+    },
+    {
+      "thumb": "../assets/images/top-brand6.webp",
+      "thumbM": "../assets/images/top-brand6-m.webp",
+      "name": "베이프"
+    },
+    {
+      "thumb": "../assets/images/top-brand7.webp",
+      "thumbM": "../assets/images/top-brand7-m.webp",
+      "name": "슈프림"
+    },
+    {
+      "thumb": "../assets/images/top-brand8.webp",
+      "thumbM": "../assets/images/top-brand8-m.webp",
+      "name": "팔라스"
+    },
+    {
+      "thumb": "../assets/images/top-brand9.webp",
+      "thumbM": "../assets/images/top-brand9-m.webp",
+      "name": "아식스"
+    },
+    {
+      "thumb": "../assets/images/top-brand10.webp",
+      "thumbM": "../assets/images/top-brand10-m.webp",
+      "name": "칼하트 WIP"
+    },
+    {
+      "thumb": "../assets/images/top-brand11.webp",
+      "thumbM": "../assets/images/top-brand11-m.webp",
+      "name": "샬로몬"
+    },
+    {
+      "thumb": "../assets/images/top-brand12.webp",
+      "thumbM": "../assets/images/top-brand12-m.webp",
+      "name": "조던"
+    },
+    {
+      "thumb": "../assets/images/top-brand13.webp",
+      "thumbM": "../assets/images/top-brand13-m.webp",
+      "name": "뉴발란스"
+    },
+    {
+      "thumb": "../assets/images/top-brand14.webp",
+      "thumbM": "../assets/images/top-brand14-m.webp",
+      "name": "마뗑킴"
+    },
+    {
+      "thumb": "../assets/images/top-brand15.webp",
+      "thumbM": "../assets/images/top-brand15-m.webp",
+      "name": "산산기어"
+    }
+  ]
+}

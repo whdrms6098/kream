@@ -1,0 +1,22 @@
+{
+  "items": [
+    {
+      "url": "",
+      "thumb": "../assets/images/main-banner.jpg",
+      "desc": "지금 핫한 두 브랜드 Hoka & On Running",
+      "theme": "khaki"
+    },
+    {
+      "url": "",
+      "thumb": "../assets/images/main-banner2.jpg",
+      "desc": "ANOETIC 감각적이고 웨어러블한 실루엣",
+      "theme": "purple"
+    },
+    {
+      "url": "",
+      "thumb": "../assets/images/main-banner3.jpg",
+      "desc": "카카오페이 결제시 최대 4만원 즉시 할인",
+      "theme": "white"
+    }
+  ]
+}

@@ -1,0 +1,452 @@
+{
+  "droppedList": [
+    {
+      "id": "",
+      "brand": {
+        "name": "Gonak",
+        "auth": false
+      },
+      "thumb": "../assets/images/product.webp",
+      "title": "Thisisneverthat x New Era x MLB New York Yankees Short Sleeve T-Shirt Navy",
+      "price": {
+        "directCheck": false,
+        "directPrice": null,
+        "normalPrice": 100520,
+        "salePercent": 30,
+        "salePrice": 200520
+      },
+      "Mileage": true,
+      "coupon": true,
+      "delivery": {
+        "fast": false,
+        "free": true
+      },
+      "order": {
+        "check": true,
+        "value": 3
+      }
+    },
+    {
+      "id": "",
+      "brand": {
+        "name": "Good Smile Company ",
+        "auth": true
+      },
+      "thumb": "../assets/images/product2.webp",
+      "title": "[예약배송] Good Smile Company Jujutsu Kaisen Satoru Gojo Tokyo Jujutsu High School Ver.",
+      "price": {
+        "directCheck": true,
+        "directPrice": null,
+        "normalPrice": 143600,
+        "salePercent": null,
+        "salePrice": null
+      },
+      "Mileage": true,
+      "coupon": true,
+      "delivery": {
+        "fast": false,
+        "free": true
+      },
+      "order": {
+        "check": false,
+        "value": null
+      }
+    },
+    {
+      "id": "",
+      "brand": {
+        "name": "Hommless ",
+        "auth": false
+      },
+      "thumb": "../assets/images/product3.webp",
+      "title": "Hommless Cut Brim Cap Grey",
+      "price": {
+        "directCheck": false,
+        "directPrice": null,
+        "normalPrice": 100520,
+        "salePercent": null,
+        "salePrice": null
+      },
+      "Mileage": true,
+      "coupon": true,
+      "delivery": {
+        "fast": false,
+        "free": true
+      },
+      "order": {
+        "check": false,
+        "value": null
+      }
+    },
+    {
+      "id": "",
+      "brand": {
+        "name": "Kims Fruits ",
+        "auth": false
+      },
+      "thumb": "../assets/images/product4.webp",
+      "title": "Kims Fruits Anyang Baby",
+      "price": {
+        "directCheck": false,
+        "directPrice": null,
+        "normalPrice": 100520,
+        "salePercent": 10,
+        "salePrice": 27000
+      },
+      "Mileage": true,
+      "coupon": true,
+      "delivery": {
+        "fast": false,
+        "free": true
+      },
+      "order": {
+        "check": true,
+        "value": 126
+      }
+    },
+    {
+      "id": "",
+      "brand": {
+        "name": "NUPIP ",
+        "auth": false
+      },
+      "thumb": "../assets/images/product5.webp",
+      "title": "Nupip Deep Ocean Pip Set",
+      "price": {
+        "directCheck": true,
+        "directPrice": null,
+        "normalPrice": 100520,
+        "salePercent": 10,
+        "salePrice": 34200
+      },
+      "Mileage": true,
+      "coupon": true,
+      "delivery": {
+        "fast": false,
+        "free": true
+      },
+      "order": {
+        "check": true,
+        "value": 3
+      }
+    }
+  ],
+  "PopularList": [
+    {
+      "id": "",
+      "brand": {
+        "name": "Gonak",
+        "auth": false
+      },
+      "thumb": "../assets/images/product.webp",
+      "title": "Thisisneverthat x New Era x MLB New York Yankees Short Sleeve T-Shirt Navy",
+      "price": {
+        "directCheck": false,
+        "directPrice": null,
+        "normalPrice": 100520,
+        "salePercent": 30,
+        "salePrice": 200520
+      },
+      "Mileage": true,
+      "coupon": true,
+      "delivery": {
+        "fast": false,
+        "free": true
+      },
+      "order": {
+        "check": true,
+        "value": 3
+      }
+    },
+    {
+      "id": "",
+      "brand": {
+        "name": "Good Smile Company ",
+        "auth": true
+      },
+      "thumb": "../assets/images/product2.webp",
+      "title": "[예약배송] Good Smile Company Jujutsu Kaisen Satoru Gojo Tokyo Jujutsu High School Ver.",
+      "price": {
+        "directCheck": true,
+        "directPrice": null,
+        "normalPrice": 143600,
+        "salePercent": null,
+        "salePrice": null
+      },
+      "Mileage": true,
+      "coupon": true,
+      "delivery": {
+        "fast": false,
+        "free": true
+      },
+      "order": {
+        "check": false,
+        "value": null
+      }
+    },
+    {
+      "id": "",
+      "brand": {
+        "name": "Hommless ",
+        "auth": false
+      },
+      "thumb": "../assets/images/product3.webp",
+      "title": "Hommless Cut Brim Cap Grey",
+      "price": {
+        "directCheck": false,
+        "directPrice": null,
+        "normalPrice": 100520,
+        "salePercent": null,
+        "salePrice": null
+      },
+      "Mileage": true,
+      "coupon": true,
+      "delivery": {
+        "fast": false,
+        "free": true
+      },
+      "order": {
+        "check": false,
+        "value": null
+      }
+    },
+    {
+      "id": "",
+      "brand": {
+        "name": "Kims Fruits ",
+        "auth": false
+      },
+      "thumb": "../assets/images/product4.webp",
+      "title": "Kims Fruits Anyang Baby",
+      "price": {
+        "directCheck": false,
+        "directPrice": null,
+        "normalPrice": 100520,
+        "salePercent": 10,
+        "salePrice": 27000
+      },
+      "Mileage": true,
+      "coupon": true,
+      "delivery": {
+        "fast": false,
+        "free": true
+      },
+      "order": {
+        "check": true,
+        "value": 126
+      }
+    },
+    {
+      "id": "",
+      "brand": {
+        "name": "NUPIP ",
+        "auth": false
+      },
+      "thumb": "../assets/images/product5.webp",
+      "title": "Nupip Deep Ocean Pip Set",
+      "price": {
+        "directCheck": true,
+        "directPrice": null,
+        "normalPrice": 100520,
+        "salePercent": 10,
+        "salePrice": 34200
+      },
+      "Mileage": true,
+      "coupon": true,
+      "delivery": {
+        "fast": false,
+        "free": true
+      },
+      "order": {
+        "check": true,
+        "value": 3
+      }
+    }
+  ],
+  "newList": [
+    {
+      "id": "",
+      "brand": {
+        "name": "Gonak",
+        "auth": false
+      },
+      "thumb": "../assets/images/product.webp",
+      "title": "Thisisneverthat x New Era x MLB New York Yankees Short Sleeve T-Shirt Navy",
+      "price": {
+        "directCheck": false,
+        "directPrice": null,
+        "normalPrice": 100520,
+        "salePercent": 30,
+        "salePrice": 200520
+      },
+      "Mileage": true,
+      "coupon": true,
+      "delivery": {
+        "fast": false,
+        "free": true
+      },
+      "order": {
+        "check": true,
+        "value": 3
+      }
+    },
+    {
+      "id": "",
+      "brand": {
+        "name": "Good Smile Company ",
+        "auth": true
+      },
+      "thumb": "../assets/images/product2.webp",
+      "title": "[예약배송] Good Smile Company Jujutsu Kaisen Satoru Gojo Tokyo Jujutsu High School Ver.",
+      "price": {
+        "directCheck": true,
+        "directPrice": null,
+        "normalPrice": 143600,
+        "salePercent": null,
+        "salePrice": null
+      },
+      "Mileage": true,
+      "coupon": true,
+      "delivery": {
+        "fast": false,
+        "free": true
+      },
+      "order": {
+        "check": false,
+        "value": null
+      }
+    },
+    {
+      "id": "",
+      "brand": {
+        "name": "Hommless ",
+        "auth": false
+      },
+      "thumb": "../assets/images/product3.webp",
+      "title": "Hommless Cut Brim Cap Grey",
+      "price": {
+        "directCheck": false,
+        "directPrice": null,
+        "normalPrice": 100520,
+        "salePercent": null,
+        "salePrice": null
+      },
+      "Mileage": true,
+      "coupon": true,
+      "delivery": {
+        "fast": false,
+        "free": true
+      },
+      "order": {
+        "check": false,
+        "value": null
+      }
+    },
+    {
+      "id": "",
+      "brand": {
+        "name": "Kims Fruits ",
+        "auth": false
+      },
+      "thumb": "../assets/images/product4.webp",
+      "title": "Kims Fruits Anyang Baby",
+      "price": {
+        "directCheck": false,
+        "directPrice": null,
+        "normalPrice": 100520,
+        "salePercent": 10,
+        "salePrice": 27000
+      },
+      "Mileage": true,
+      "coupon": true,
+      "delivery": {
+        "fast": false,
+        "free": true
+      },
+      "order": {
+        "check": true,
+        "value": 126
+      }
+    },
+    {
+      "id": "",
+      "brand": {
+        "name": "NUPIP ",
+        "auth": false
+      },
+      "thumb": "../assets/images/product5.webp",
+      "title": "Nupip Deep Ocean Pip Set",
+      "price": {
+        "directCheck": true,
+        "directPrice": null,
+        "normalPrice": 100520,
+        "salePercent": 10,
+        "salePrice": 34200
+      },
+      "Mileage": true,
+      "coupon": true,
+      "delivery": {
+        "fast": false,
+        "free": true
+      },
+      "order": {
+        "check": true,
+        "value": 3
+      }
+    }
+  ],
+  "release": [
+    {
+      "id": "",
+      "brand": {
+        "name": "Gonak",
+        "auth": false
+      },
+      "date": {
+        "month": "7월",
+        "day": 13
+      },
+      "thumb": "../assets/images/product.webp",
+      "title": "Thisisneverthat x New Era x MLB New York Yankees Short Sleeve T-Shirt Navy"
+    },
+    {
+      "id": "",
+      "brand": {
+        "name": "Good Smile Company",
+        "auth": false
+      },
+      "date": {
+        "month": "7월",
+        "day": 10
+      },
+      "thumb": "../assets/images/product2.webp",
+      "title": "[예약배송] Good Smile Company Jujutsu Kaisen Satoru Gojo Tokyo Jujutsu High School Ver."
+    },
+    {
+      "id": "",
+      "brand": {
+        "name": "Hommless",
+        "auth": false
+      },
+      "date": {
+        "month": "7월",
+        "day": 11
+      },
+      "thumb": "../assets/images/product3.webp",
+      "title": "Hommless Cut Brim Cap Grey"
+    },
+    {
+      "id": "",
+      "brand": {
+        "name": "Kims Fruits",
+        "auth": false
+      },
+      "date": {
+        "month": "7월",
+        "day": 15
+      },
+      "thumb": "../assets/images/product4.webp",
+      "title": "Kims Fruits Anyang Baby"
+    }
+  ]
+}

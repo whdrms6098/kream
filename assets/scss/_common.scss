@@ -1,0 +1,82 @@
+$color-black: #000;
+$color-white: #fff;
+$color-gray: rgba(34, 34, 34, 0.8);
+$color-red: rgb(214, 27, 27);
+$color-orange: #ef6253;
+
+@mixin maxWidth {
+  max-width: 1280px;
+}
+
+@mixin tablets() {
+  @media (max-width: 980px) {
+    @content;
+  }
+}
+
+@mixin mobile() {
+  @media (max-width: 750px) {
+    @content;
+  }
+}
+
+@mixin mobile480() {
+  @media (max-width: 480px) {
+    @content;
+  }
+}
+
+.blind {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  margin: -1px;
+}
+
+.ico--rocket {
+  width: 12px;
+  height: 12px;
+  background: url("../images/rocket.png") no-repeat center / cover;
+}
+
+.point--red {
+  color: #f15746;
+}
+
+.btn--top {
+  width: 44px;
+  height: 48px;
+  background-color: $color-white;
+  border-radius: 30px;
+  position: fixed;
+  bottom: 24px;
+  right: 24px;
+  box-shadow: 0 2px 8px 0 rgba(0, 0, 0, 0.1);
+  padding-top: 4px;
+  z-index: 9;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: opacity 0.4s;
+  opacity: 0;
+  visibility: hidden;
+  @include tablets {
+    bottom: 66px;
+  }
+
+  &.active {
+    opacity: 1;
+    visibility: visible;
+  }
+
+  svg {
+    height: 24px;
+    width: 24px;
+  }
+}
+
+.svg__wrap {
+  display: none;
+}
